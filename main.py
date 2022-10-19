@@ -1,3 +1,2 @@
-import cv2
-
-img = cv2.imread()
+a = [2,3,4,5]
+a[]
